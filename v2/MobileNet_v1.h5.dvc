@@ -1,0 +1,4 @@
+outs:
+- md5: ae25c349b371c9b116e3460faab41894
+  size: 39003304
+  path: MobileNet_v1.h5
